@@ -1,0 +1,32 @@
+{
+  "Expenses": [
+    {
+      "month": 1,
+      "year": 2021,
+      "description": "test1",
+      "amount ($)": 1,
+      "category": "Food & Grocery",
+      "day": 1
+    },
+    {
+      "month": 1,
+      "year": 2021,
+      "description": "test2",
+      "amount ($)": 1,
+      "category": "Utilities",
+      "day": 2
+    }
+  ],
+  "report data": {
+    "remained budget": 121,
+    "Category data": {
+      "Others": 0,
+      "Utilities": 1,
+      "Daily Necessities": 0,
+      "Food & Grocery": 1
+    },
+    "total exp": 2,
+    "ifExceeded": false,
+    "budget": 123
+  }
+}

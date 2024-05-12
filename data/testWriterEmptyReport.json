@@ -1,0 +1,15 @@
+{
+    "Expenses": [],
+    "report data": {
+        "remained budget": 0,
+        "Category data": {
+            "Others": 0,
+            "Utilities": 0,
+            "Daily Necessities": 0,
+            "Food & Grocery": 0
+        },
+        "total exp": 0,
+        "ifExceeded": false,
+        "budget": 0
+    }
+}

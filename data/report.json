@@ -1,0 +1,32 @@
+{
+    "Expenses": [
+        {
+            "month": 1,
+            "year": 2021,
+            "description": "Tim Hortons",
+            "amount ($)": 10,
+            "category": "Food & Grocery",
+            "day": 1
+        },
+        {
+            "month": 2,
+            "year": 2021,
+            "description": "KN95 Mask",
+            "amount ($)": 10,
+            "category": "Daily Necessities",
+            "day": 2
+        }
+    ],
+    "report data": {
+        "remained budget": 30,
+        "Category data": {
+            "Others": 0,
+            "Utilities": 0,
+            "Daily Necessities": 10,
+            "Food & Grocery": 10
+        },
+        "total exp": 20,
+        "ifExceeded": false,
+        "budget": 50
+    }
+}

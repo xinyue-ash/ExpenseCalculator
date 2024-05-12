@@ -1,0 +1,32 @@
+{
+    "Expenses": [
+        {
+            "month": 9,
+            "year": 2021,
+            "description": "Milk",
+            "amount ($)": 10,
+            "category": "Food & Grocery",
+            "day": 1
+        },
+        {
+            "month": 9,
+            "year": 2021,
+            "description": "Milk",
+            "amount ($)": 20,
+            "category": "Utilities",
+            "day": 1
+        }
+    ],
+    "report data": {
+        "remained budget": 70,
+        "Category data": {
+            "Others": 0,
+            "Utilities": 20,
+            "Daily Necessities": 0,
+            "Food & Grocery": 10
+        },
+        "total exp": 30,
+        "ifExceeded": false,
+        "budget": 100
+    }
+}
